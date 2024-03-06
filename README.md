@@ -1,6 +1,6 @@
 # NoName Game Performance Analysis
 
-[NNGame.pdf](https://github.com/redpanda-fi/rfm_sql/files/14511397/NNGame.pdf)
+![NNGame](https://github.com/redpanda-fi/rfm_sql/assets/152161275/218216a3-2685-4fe3-83fd-18dd353fcbe1)
 
 The goal of this project is to demonstrate proficiency in creating clear and concise reports in PowerBI using DAX and focusing on key metrics including conversion rate, customer retention (via cohort analysis), and Average Revenue Per Paying User (ARPPU). 
 
